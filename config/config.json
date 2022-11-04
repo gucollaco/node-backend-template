@@ -1,0 +1,11 @@
+{
+  "db": "memory",
+  "auth0": {
+    "issuerBaseURL": "",
+    "audience": ""
+  },
+  "logger": {
+    "maxFileSize": 10000000,
+    "maxFilesQuantity": 5
+  }
+}
