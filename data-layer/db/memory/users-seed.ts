@@ -1,6 +1,6 @@
 import { v4 as uuidv4 } from 'uuid';
 
-import { InMemoryUser } from '../../../src/types/aas';
+import { InMemoryUser } from '../../../src/types';
 
 export default [
   {
